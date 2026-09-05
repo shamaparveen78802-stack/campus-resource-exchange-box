@@ -1,0 +1,6 @@
+{
+  "name": "Campus Resource Exchange",
+  "description": "An AI-powered campus community platform where students exchange books, electronics, and skills, donate unused items, track resource chains, and measure community impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
